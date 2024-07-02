@@ -9,3 +9,6 @@
 2. Edit project (add student information)
 3. Commit updated code to local repository
 4. Push updated code to Github (remote) repository
+
+รหัสนศ 660610777
+ชื่อนศ พรไพลิน เจ้าวัฒนพงศ์
